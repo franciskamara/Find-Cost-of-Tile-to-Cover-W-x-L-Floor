@@ -1,0 +1,15 @@
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/bin/Debug/net7.0/Find Cost of Tile to Cover W x L Floor
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/bin/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.deps.json
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/bin/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.runtimeconfig.json
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/bin/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.dll
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/bin/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.pdb
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.csproj.AssemblyReference.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.AssemblyInfoInputs.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.AssemblyInfo.cs
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.dll
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/refint/Find Cost of Tile to Cover W x L Floor.dll
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.pdb
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/Find Cost of Tile to Cover W x L Floor.genruntimeconfig.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Find Cost of Tile to Cover W x L Floor/obj/Debug/net7.0/ref/Find Cost of Tile to Cover W x L Floor.dll

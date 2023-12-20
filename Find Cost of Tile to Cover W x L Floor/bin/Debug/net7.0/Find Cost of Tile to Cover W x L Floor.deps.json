@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Find Cost of Tile to Cover W x L Floor/1.0.0": {
+        "runtime": {
+          "Find Cost of Tile to Cover W x L Floor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find Cost of Tile to Cover W x L Floor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
